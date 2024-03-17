@@ -1,4 +1,5 @@
-# LGE-Project
+# 스마트홈 내 정신 건강 예측 모델 개발
+### Collaboration with LGE
 
 ## 필드 테스트 및 데이터 수집
 
